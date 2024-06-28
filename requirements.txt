@@ -1,4 +1,5 @@
 langchain
+langchain-community
 google-generativeai
 streamlit
 langchain-google-genai
