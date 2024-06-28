@@ -28,7 +28,7 @@ spec:
     spec:
       containers:
         - name: rag-demo
-          image: docker.io/rudrakshkarpe/
+          image: docker.io/rudrakshkarpe/rag-demo-app:latest
           imagePullPolicy: IfNotPresent
           ports:
             - containerPort: 8502
