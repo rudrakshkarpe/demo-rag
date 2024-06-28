@@ -7,3 +7,5 @@ python-dotenv
 chromadb
 pypdf
 PyPDF2
+tornado
+portpicker
